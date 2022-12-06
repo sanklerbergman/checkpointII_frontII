@@ -108,5 +108,5 @@ Contatos:
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelombgarofalo/)](https://www.linkedin.com/in/marcelombgarofalo/)
-[![Gmail Badge](https://img.shields.io/badge/-marcelorokama@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelorokama@gmail.com)](mailto:marcelorokama@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/marcelo_mbg@hotmail.com-0078D6?style=flat-square&logo=windows&logoColor=white&link=mailto:marcelo_mbg@hotmail.com)](mailto:marcelo_mbg@hotmail.com)
 <hr>
