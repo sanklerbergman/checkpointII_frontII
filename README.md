@@ -94,3 +94,15 @@ O envio será aceito enviando o URL do seu repositório clonado e um link do seu
 O link do Google Form para submissão será enviado pelo professor responsável pela comissão.
 
 Boa sorte e sucesso!
+
+***
+## Authors
+
+| [<img alt="fabio-neres" src="https://github.com/neresfabio.png?size=115" width="115"><br><sub>@fabio-neres</sub>](https://github.com/neresfabio) | [<img alt="marcelo-garofalo" src="https://github.com/marcelombg.png?size=115" width="115"><br><sub>@marcelo-garofalo</sub>](https://github.com/marcelombg) |
+| :---: |:---:|
+
+Contatos:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fabio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioneresdejesus/)](https://www.linkedin.com/in/fabioneresdejesus/)
+[![Gmail Badge](https://img.shields.io/badge/-neresfjcomunic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neresfjcomunic@gmail.com)](mailto:neresfjcomunic@gmail.com)
+<hr>
