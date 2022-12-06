@@ -19,13 +19,13 @@ Exame Final de Frontend III
 
 ```
 # Clone o repositório para o seu computador
-git clone https://github.com/DigitalHouseBrasil/CTD-FE3-Checkpoint2-Template
+git clone git@github.com:neresfabio/checkpointII_frontII.git
 
 # Entre na pasta do projeto
 cd CTD-FE3-Checkpoint2-Template
 
-# Elimine os links do repositório de DH
-git remote rm origin
+# Elimine os links do repositório de origem
+git remote rm origin 
 
 # Adicione seu projeto a sua conta do github, ajuste o link para seu nome de usuário e repositório
 git remote add origin https://github.com/<nomedousuario>/<nomedoprojeto>
@@ -94,3 +94,15 @@ O envio será aceito enviando o URL do seu repositório clonado e um link do seu
 O link do Google Form para submissão será enviado pelo professor responsável pela comissão.
 
 Boa sorte e sucesso!
+
+***
+## Authors
+
+| [<img alt="fabio-neres" src="https://github.com/neresfabio.png?size=115" width="115"><br><sub>@fabio-neres</sub>](https://github.com/neresfabio) | [<img alt="marcelo-garofalo" src="https://github.com/marcelombg.png?size=115" width="115"><br><sub>@marcelo-garofalo</sub>](https://github.com/marcelombg) |
+| :---: |:---:|
+
+Contatos:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fabio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioneresdejesus/)](https://www.linkedin.com/in/fabioneresdejesus/)
+[![Gmail Badge](https://img.shields.io/badge/-neresfjcomunic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neresfjcomunic@gmail.com)](mailto:neresfjcomunic@gmail.com)
+<hr>
