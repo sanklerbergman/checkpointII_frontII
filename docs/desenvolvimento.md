@@ -31,6 +31,10 @@ Para ajudar a organizar e entregar a tempo, deixamos-lhe uma proposta de workflo
 
 ### Passo 1: Criando Rotas
 
+[x] instalando React Router Dom
+```bash
+npm install react-router-dom
+```
 Importe os componentes relevantes para agrupar o aplicativo e criar o roteamento da página. Não importa que ainda não tenhamos os componentes que irão em cada view, por enquanto você pode deixar apenas um div.
 
 ### Passo 2: Crie componentes para cada rota
