@@ -7,6 +7,9 @@ const Home = () => {
   const [card, setCard] = useState([])
 
   useEffect(() => {
+    //Nesse useEffect, deverá ser obtido todos os dentistas da API
+    //Armazena-los em um estado para posteriormente fazer um map
+    //Usando o componente <Card />
 
     fetch('https://dhodonto.ctdprojetos.com.br/dentista').then(
       response => {
