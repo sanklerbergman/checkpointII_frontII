@@ -1,8 +1,10 @@
-import { response } from "msw";
+import { useState } from "react";
 import { useEffect } from "react";
 import Card from "../Components/Card";
 
-const Home = (props) => {
+const Home = () => {
+
+  const [card, setCard] = useState([])
 
   useEffect(() => {
     //Nesse useEffect, deverá ser obtido todos os dentistas da API
@@ -13,7 +15,7 @@ const Home = (props) => {
       response => {
         response.json().then(
           data => {
-            console.log(data)
+            setCard(data)
           }
         )
       }
@@ -25,7 +27,21 @@ const Home = (props) => {
     <>
       <h1>Home</h1>
       <div className="card-grid container">
-        <Card />
+
+        {
+          card.map(
+            container => {
+              return (
+                <Card 
+                  containerData={container}
+                />
+              )
+            }
+          )
+        }
+
+        
+
       </div>
     </>
   );
