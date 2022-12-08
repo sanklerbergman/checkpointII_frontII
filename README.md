@@ -98,7 +98,7 @@ Boa sorte e sucesso!
 ***
 ## Authors
 
-| [<img alt="fabio-neres" src="https://github.com/neresfabio.png?size=115" width="115"><br><sub>@fabio-neres</sub>](https://github.com/neresfabio) | [<img alt="marcelo-garofalo" src="https://github.com/marcelombg.png?size=115" width="115"><br><sub>@marcelo-garofalo</sub>](https://github.com/marcelombg) | [<img alt="tawan-silva" src="https://github.com/Tawan-Silva.png?size=115" width="115"><br><sub>@Tawan-Silva</sub>](https://github.com/Tawan-Silva)
+| [<img alt="fabio-neres" src="https://github.com/neresfabio.png?size=115" width="115"><br><sub>@fabio-neres</sub>](https://github.com/neresfabio) | [<img alt="marcelo-garofalo" src="https://github.com/marcelombg.png?size=115" width="115"><br><sub>@marcelo-garofalo</sub>](https://github.com/marcelombg)
 
 Contatos:
 
@@ -106,6 +106,4 @@ Contatos:
 [![Gmail Badge](https://img.shields.io/badge/-neresfjcomunic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neresfjcomunic@gmail.com)](mailto:neresfjcomunic@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelombgarofalo/)](https://www.linkedin.com/in/marcelombgarofalo/)
 [![Hotmail Badge](https://img.shields.io/badge/marcelo_mbg@hotmail.com-0078D6?style=flat-square&logo=windows&logoColor=white&link=mailto:marcelo_mbg@hotmail.com)](mailto:marcelo_mbg@hotmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Sankler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankler-bergman-64962511b/)](https://www.linkedin.com/in/sankler-bergman-64962511b/)
-[![Linkedin Badge](https://img.shields.io/badge/-Tawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tawan-silva-684b581b7/)](https://www.linkedin.com/in/sankler-bergman-64962511b/)
 <hr>
