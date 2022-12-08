@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 //Lembre-se de configurar suas rotas e seu contexto aqui
 const routerApp = createBrowserRouter([
   {
-    path: '',
+    path: 'home',
     element: <Home />
   },
   {
@@ -26,6 +26,7 @@ const routerApp = createBrowserRouter([
     element: <Detail />
   },
 ])
+
 root.render(
   <React.StrictMode>
     <Navbar />
